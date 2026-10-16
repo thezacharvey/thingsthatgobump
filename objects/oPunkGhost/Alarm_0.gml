@@ -27,6 +27,9 @@ if(jumping_up){
          y += jump_speed; 
     }else{
         jumping_up = true 
+        if(instance_exists(oHouse)){
+           oHouse.take_hit(dmg)
+        }
         //wait half a second to jump 
           image_angle = 5 * image_xscale
         alarm[0] = game_get_speed(gamespeed_fps) * 2

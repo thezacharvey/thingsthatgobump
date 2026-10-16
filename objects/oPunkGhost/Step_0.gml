@@ -33,14 +33,6 @@ switch (state) {
 
 
 
-if(keyboard_check_pressed(ord("Q"))){
-    
-    x =og_x 
-    y = og_y 
-}
-
-
-
 
 
 
