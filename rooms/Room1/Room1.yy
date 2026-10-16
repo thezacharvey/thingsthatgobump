@@ -13,6 +13,8 @@
     {"name":"inst_5F76D788","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3D312B52","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_D6D058A","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1FB50542","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_690B9D18","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,6 +26,8 @@
         {"$GMRInstance":"v4","%Name":"inst_5F76D788","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F76D788","objectId":{"name":"oPunkGhost","path":"objects/oPunkGhost/oPunkGhost.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":180.0,"y":886.0,},
         {"$GMRInstance":"v4","%Name":"inst_3D312B52","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D312B52","objectId":{"name":"oPunkGhostSpawner","path":"objects/oPunkGhostSpawner/oPunkGhostSpawner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":17.0,"y":1037.0,},
         {"$GMRInstance":"v4","%Name":"inst_D6D058A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D6D058A","objectId":{"name":"oGun","path":"objects/oGun/oGun.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.1895709,"scaleY":0.1895709,"x":937.98535,"y":820.055,},
+        {"$GMRInstance":"v4","%Name":"inst_1FB50542","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1FB50542","objectId":{"name":"oPunkGhost","path":"objects/oPunkGhost/oPunkGhost.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1605.0,"y":830.057,},
+        {"$GMRInstance":"v4","%Name":"inst_690B9D18","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_690B9D18","objectId":{"name":"oPunkGhost","path":"objects/oPunkGhost/oPunkGhost.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1985.0,"y":903.5,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_66638155","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_66638155","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":-6.545025,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"mountain1","path":"sprites/mountain1/mountain1.yy",},"x":238.0,"y":640.0,},
