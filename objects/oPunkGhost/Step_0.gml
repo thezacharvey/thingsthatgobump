@@ -4,6 +4,8 @@ live_auto_call
 
 var mve_spd = 2
 
+depth = -y 
+
 switch (state) {
     case ghost_states.idle:
         
@@ -27,6 +29,22 @@ switch (state) {
         break; 
     case ghost_states.attacking:
         break 
+    
+    case ghost_states.gameover:
+        if(distance_to_point(game_over_x,game_over_y) > 1){
+                move_towards_point(game_over_x, game_over_y, mve_spd);
+             image_xscale = game_over_x> x ? 1 : -1 
+        }else{
+            speed = 0 
+        }
+        break 
+    case ghost_states.dying:
+        speed = 0 
+        x += 100 * fly_dir
+        show_debug_message(fly_dir)
+        //image_angle += 20
+        
+        break
     
 	
 }

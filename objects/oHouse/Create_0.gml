@@ -9,10 +9,13 @@ enum house_states {idle, hit, dead}
 state = house_states.idle 
 function take_hit(_dmg){
     
+ 
+    
     if(state == house_states.hit or state == house_states.dead  ){
         return  
     }
     
+    //dead
     if(hlth <= 0 and state != house_states.dead){
         state = house_states.dead
         return 

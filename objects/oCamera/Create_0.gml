@@ -11,8 +11,8 @@ view_visible[0] = true;
 
 
 
-camera_width = 1080;
-camera_height = 1080;
+camera_width = 1500;
+camera_height = 1500;
 camera_move_speed = .5
 
 camera_info = noone;
